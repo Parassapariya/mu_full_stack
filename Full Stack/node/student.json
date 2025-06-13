@@ -1,0 +1,51 @@
+[
+  {
+    "name": "John Doe",
+    "age": 20,
+    "major": "Computer Science",
+    "courses": [
+      {
+        "courseName": "Introduction to Programming",
+        "credits": 3
+      },
+      {
+        "courseName": "Data Structures",
+        "credits": 4
+      }
+    ],
+    "gpa": 3.8
+  },
+  {
+    "name": "Jane Smith",
+    "age": 22,
+    "major": "Mathematics",
+    "courses": [
+      {
+        "courseName": "Calculus I",
+        "credits": 4
+      },
+      {
+        "courseName": "Linear Algebra",
+        "credits": 3
+      }
+    ],
+    "gpa": 3.9
+  },
+  {
+    "name": "John Doe1",
+    "age": 201,
+    "major": "Computer Science1",
+    "courses": [
+      {
+        "courseName": "1Introduction to Programming",
+        "credits": 31
+      },
+      {
+        "courseName": "1Data Structures",
+        "credits": 41
+      }
+    ],
+    "gpa": 3.81
+  },
+  null
+]
